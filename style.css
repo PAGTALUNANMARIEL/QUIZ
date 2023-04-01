@@ -1,0 +1,50 @@
+
+
+.main{
+    padding: 50px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    font-weight: bolder;
+    border: 1px;
+}
+
+.container{
+    padding: 100px;
+    border: 10px solid black;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+    display: flexbox;
+    background-color: aquamarine;
+}
+
+.container input{
+    margin-bottom: 30px;
+}
+
+#btn{
+    color: aliceblue;
+    background-color: yellowgreen;
+    border: none;
+    padding: 10px 15px;
+}
+
+#btn.hover{
+    background-color: aqua;
+    color: black;
+    border: 10px solid green;
+}
+
+.answer-box{
+    padding: 20px;
+    text-align: left;
+    width: 30%;
+    border: 5px solid black;
+    margin: auto;
+}
